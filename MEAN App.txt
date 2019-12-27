@@ -10,8 +10,5 @@ use dbname
 show collections
 db.users.find().pretty()
 
-username: Amanulla
-password: Amanulla@5
-
 username: Aman
 password: Aman
