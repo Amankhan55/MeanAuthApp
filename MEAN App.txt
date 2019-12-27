@@ -1,0 +1,17 @@
+1. Angular(CLI, Router, HTTP, JWT, Auth Guard, Flash Module)
+2. Rest API -Node.js/Express
+3. Token Generation & Authentication
+4. CORS
+5. Mongoose ODM
+
+Mongo DB shell commands:
+show dbs
+use dbname
+show collections
+db.users.find().pretty()
+
+username: Amanulla
+password: Amanulla@5
+
+username: Aman
+password: Aman
